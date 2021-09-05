@@ -1,0 +1,2 @@
+# maquina-pila
+Trabajo desarrollado dentro de la asignatura Estrategias de Programación y Estructuras de Datos (EPED) en el Grado de Ingeniería Informática de la UNED. Consiste en crear una máquina pila capaz de evaluar expresiones formadas por sumas, restas y multiplicaciones de enteros de tamaño ilimitado, superándo el límite de los números long de 64 bits (de -9223372036854775808 a +9223372036854775807).
