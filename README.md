@@ -51,3 +51,6 @@ Las **clases** proporcionadas por el equipo docente han sido:
   - `ValueInt.java`: Esta clase extiende (hereda de) Value. Sus objetos son valores enteros (sin signo) representados mediante el tipo int de Java.
 
 Además, el equipo docente también ha proporcionado **juegos de prueba** para que los estudiantes puedan comprobar el correcto funcionamiento del programa. Los juegos de prueba se ejecutan a través de un script `Compile_Run_Test_V.05.bat`, el cual carga las pruebas listadas en los archivos `Estudiantes_INT.txt` y `Estudiantes_SEQ.txt` (ver estos dos archivos en la carpeta [juego_de_pruebas](juego_de_pruebas)).
+
+## Bibliografía
+- Allen Weiss, M. (2013). _Estructuras de datos en java (4a. ed.)._ Pearson Educación.
